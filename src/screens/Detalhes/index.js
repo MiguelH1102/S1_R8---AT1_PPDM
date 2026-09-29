@@ -123,7 +123,7 @@ export default function DetalhesScreen() {
 
         </View>
 
-        {/* TIPOS */}
+        
 
         <View style={styles.section}>
 
